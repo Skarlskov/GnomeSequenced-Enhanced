@@ -6,7 +6,7 @@ local Sequences = GSMasterSequences
 -- Fire 63
 -- Frost 64
 
-Sequences['Arcaneaoe'] = { 
+Sequences['Arcaneaoe'] = { }
 
 
 
